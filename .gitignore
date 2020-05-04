@@ -2,3 +2,8 @@
 *.tsv
 *.gz
 *.tar.gz
+*.png
+*.jpg
+*.txt
+*.xml
+*.mat
